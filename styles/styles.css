@@ -454,3 +454,7 @@ a{
         object-fit:fill;
     }
 }
+.profile{
+    word-spacing: 0.5rem;
+    color: black;
+}
